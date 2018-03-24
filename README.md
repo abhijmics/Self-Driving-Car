@@ -1,6 +1,7 @@
 # Self-Driving-Car
 # How to simulate a self driving car
 
+![cover](https://user-images.githubusercontent.com/18666200/37863087-16811426-2f7e-11e8-95c6-30f03c4f5836.png)
 
 ---
 # Overview
